@@ -1,1 +1,3 @@
 reset message 1
+reset message 2
+reset message 3
